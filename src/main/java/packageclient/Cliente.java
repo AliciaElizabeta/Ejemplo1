@@ -1,4 +1,4 @@
-package packageClient;
+package packageclient;
 
 public class Cliente {
     public static void main(String[] args) {
