@@ -4,11 +4,11 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-public class TestCliente {
+class TestCliente {
     private Cliente c;
 
     @BeforeEach
-    void setup() throws Exception {
+    void setup() {
         c = new Cliente();
     }
 
