@@ -13,7 +13,7 @@ class TestCliente {
     }
 
     @Test
-    void NumberTest(){
+    void SumaTest(){
         assertEquals(3, c.suma(1,2));
     }
 
